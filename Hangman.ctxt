@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hangman()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Hangman\n
+comment1.params=
+comment1.target=void\ NewGame()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Hangman\n
+comment2.params=
+comment2.target=void\ giveUp()
+comment2.text=\n\ Gives\ up\ the\ game\n\ @param\ \ none\n\ @return\ none\n
+comment3.params=c
+comment3.target=void\ guess(char)
+comment3.text=\n\ Player\ makes\ a\ guess\n\ @param\ \ the\ charactes\ that\ the\ player\ guesses\n\ @return\ none\n
+numComments=4

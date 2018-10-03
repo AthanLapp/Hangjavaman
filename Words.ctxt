@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ generateWords()
+comment0.text=\r\n\ Generates\ a\ list\ of\ words\r\n
+comment1.params=
+comment1.target=java.lang.String\ randomWord()
+comment1.text=\r\n\ Creates\ a\ list\ of\ words\ and\ picks\ one\ in\ random\r\n\ \r\n\ @return\ the\ chosen\ word\r\n
+numComments=2
